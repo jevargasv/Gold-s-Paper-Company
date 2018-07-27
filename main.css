@@ -1,0 +1,415 @@
+/* Body */
+
+body {
+  background-image: url("paper_04.jpg");
+  margin: 0 auto;
+}
+
+.main-container {
+  display: block;
+}
+
+/* Header */
+
+.main-header {
+  display: block;
+}
+
+.navbar-container {
+  display: block;
+}
+
+#navbar {
+  display: block;
+}
+
+#logo-image {
+  display: block;
+}
+
+#logo-image img {
+  height: auto;
+  width: 20%;
+  padding-top: 20px;
+}
+
+#main-navigation {
+	color: black;
+	list-style: none;
+	text-align: right;
+  margin: auto;
+  padding-right: 52px;
+  margin-top: -190px;  
+}
+
+#main-navigation-ul li {
+  color: black;
+  display: inline-block;
+  font-family: "Gill Sans";
+  font-weight: bold;
+  padding: 30px 10px;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#main-navigation-ul a {
+  display: block;
+  padding: 30px 10px;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+#main-navigation-ul a:hover {
+  color: whitesmoke;
+}
+
+/* Main Content */
+
+.main-headline {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 4px solid black;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.main-headline h1 {
+  font-size: 80px;
+  padding-top: 100px;
+  margin-left: 3px;
+}
+
+.main-headline h6 {
+  text-align: center;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+.main-headline h6:hover {
+  color: whitesmoke;
+}
+
+.main-headline p {
+  text-align: center;
+  font-size: 25px;
+  margin-top: -150px;
+}
+
+.main-headline img {
+  height: auto;
+  width: 20%;
+  position: relative;
+  right: -974px;
+  top: -240px;
+}
+
+.main-headline img:hover {
+  transform-origin: center;
+  -webkit-transform-origin: center;
+  animation: scale 1s ease-in-out forwards;
+  -webkit-animation: scale 1s ease-in-out forwards;
+}
+@-webkit-keyframes scale {
+  to {
+    transform: scale(1.6);
+  }
+}
+
+.section1 {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 4px solid black;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.section1 h2 {
+  text-align: center;
+  font-family: "Gill Sans";
+}
+
+.section1 h6 {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.section1 h6:hover {
+  color: whitesmoke;
+}
+
+.section1 p {
+  text-align: center;
+  font-size: 25px;
+}
+
+.section1 img {
+  display: block;
+  height: auto;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.section1 img:hover {
+  transform-origin: center;
+  -webkit-transform-origin: center;
+  animation: scale 1s ease-in-out forwards;
+  -webkit-animation: scale 1s ease-in-out forwards;
+}
+  @-webkit-keyframes scale {
+    to {
+      transform: scale(1.4);
+  }
+}
+
+.section2 {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 4px solid black;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.section2 h2 {
+  text-align: center;
+  font-family: "Gill Sans";
+}
+
+.section2 h6 {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.section2 h6:hover {
+  color: whitesmoke;
+}
+
+.section2 p {
+  text-align: center;
+  font-size: 25px;
+}
+
+.section2 img {
+  display: block;
+  height: auto;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+}
+
+.section2 img:hover {
+  transform-origin: center;
+  -webkit-transform-origin: center;
+  animation: scale 1s ease-in-out forwards;
+  -webkit-animation: scale 1s east-in-out forwards;
+}
+  @-webkit-keyframes scale {
+    to {
+      transform: scale(1.4);
+  }
+}
+
+.section3 {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 4px solid none;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.section3 h2 {
+  text-align: center;
+  font-family: "Gill Sans";
+}
+
+.section3 h6 {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+  padding-top: 30px;
+}
+
+.section3 h6:hover {
+  color: whitesmoke;
+}
+
+.section3 p {
+  text-align: center;
+  font-size: 25px;
+}
+
+.section3 img {
+  display: block;
+  height: auto;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.section3 img:hover {
+  transform-origin: center;
+  -webkit-transform-origin: center;
+  animation: scale 1s ease-in-out forwards;
+  -webkit-animation: scale 1s ease-in-out forwards;
+}
+  @-webkit-keyframes scale {
+    to {
+      transform: scale(1.4);
+  }
+}
+
+/* Footer */
+
+footer {
+  background-image: url("5acf1fc2858df41af4680cd82c76c9da.jpg");
+  display: block;
+}
+
+.footer-container {
+  display: block;
+}
+
+#footer-info {
+  display: block;
+  padding: 10px 10px;
+}
+
+#social-media-icons {
+  display: block;
+}
+
+#facebook {
+  height: auto;
+  width: 40px;
+  margin: 18px 18px;
+  padding-left: 205px;
+}
+
+#twitter {
+  height: auto;
+  width: 80px;
+  margin: 18px 18px;
+  padding-left: 205px;
+}
+
+#instagram {
+  height: auto;
+  width: 65px;
+  margin: 18px 18px;
+  padding-left: 205px;
+}
+
+#indeed {
+  height: auto;
+  width: 70px;
+  margin: 18px 18px;
+  padding-left: 205px;
+}
+ 
+#address p {
+  color: whitesmoke;
+  font-family: "Gill Sans";
+  text-align: center;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+#address h6 {
+  color: whitesmoke;
+  font-family: "Gill Sans";
+  text-align: center;
+  font-size: 20px;
+  font-weight: lighter;
+  margin-top: -10px;
+  margin-bottom: 30px;
+}
+
+/* Text Elements */
+
+h1 {
+  font-family: "Gill Sans";
+}
+
+h6 {
+  font-family: "Gill Sans";
+}
+
+p {
+  font-family: "Gill Sans";
+  font-size: 20px;
+}
+
+/* -------- For Laptops -------- */
+
+@media only screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* --------- For iPhones --------- */
+
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3) {
+
+  }
+
+/* Portrait */
+
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ration: 3)
+  and (orientation: portrait) {
+
+    }
+    
+/* Landscape */
+
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ration: 3)
+  and (orientation: Landscape) {
+
+    }
+
+/* -------- For Tablets -------- */
+
+@media only screen
+  and (min-device-width: 1024px)
+  and (max-device-width: 1366px)
+  and (-webkit-min-device-pixel-ration: 2) {
+
+  }
+
+/* Portrait */
+
+@media only screen
+  and (min-device-width: 1024px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+  }
+
+/* Landscape */
+
+@media only screen
+and (min-device-width: 1366px)
+and (max-device-width: 1366px)
+and (orientation: landscape)
+and (-webkit-min-device-pixel-ration: 2) {
+    
+}
