@@ -1,3 +1,5 @@
+// All jQuery functions to trigger the image css animations on scroll functions.
+
 (document).ready(function($) { 
     $(window).scroll(function() { 
         var scrollTop = $(window).scrollTop(); 
