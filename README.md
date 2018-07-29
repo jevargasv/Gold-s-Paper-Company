@@ -1,6 +1,6 @@
 # Gold's Paper Company
 
-This is the first project for the WDF June 2018 Cohort. This is to create a dummy website for a fictional paper company that is modern and edgy for the client's taste. This also demonstrates the understand of using semantic HTML proper element targeting in CSS, jQuery and animations. My client is a mom-and-pop shop with a strong sense of family and friend values which my design of my website was very simple and clean with sans-serif text, dynamic image animations, warm colors, paper textures, and basic functionality.
+This is the first project for the WDF June 2018 Cohort. This is to create a dummy website for a fictional paper company that is modern and edgy for the client's taste. This also demonstrates the understand of using semantic HTML proper element targeting in CSS, jQuery and animations. My client is a mom-and-pop shop with a strong sense of family and friend values which my design of my website was very simple and clean with sans-serif text, dynamic image animations, warm colors, paper textures, and basic click functionality.
 
 # Built With:
 
