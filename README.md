@@ -8,7 +8,9 @@ This is the first project for the WDF June 2018 Cohort. This is to create a Poke
 - CSS - Design and Animations
 - jQuery - Functions
 
-# Special Thanks to:
+# UX/UI Wireframe
+
+![plan-alt-tag](https://github.com/jevargasv/Golds-Paper-Company/blob/master/UX%20Wireframe.jpg)
 
 # Authors:
 
