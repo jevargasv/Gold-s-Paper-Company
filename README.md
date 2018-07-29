@@ -1,6 +1,6 @@
 # Gold's Paper Company
 
-This is the first project for the WDF June 2018 Cohort. This is to create a Pokemon trainer "device" shown on the web browser to display information of the three chosen Pokemon by using AJAX (Axios) to retrieve the data. This Pokedex is for a special trainer that is an octogenarian (who's 88 years old) with simple and basic functionality with a simple button, specifically made for her age without any seizure-causing harsh sounds, moving images and flashing lights.
+This is the first project for the WDF June 2018 Cohort. This is to create a dummy website for a fictional paper company that is modern and edgy for the client's taste. This also demonstrates the understand of using semantic HTML proper element targeting in CSS, jQuery and animations. My client is a mom-and-pop shop with a strong sense of family and friend values which my design of my website was very simple and clean with sans-serif text, dynamic image animations, warm colors, paper textures, and basic functionality.
 
 # Built With:
 
